@@ -1,0 +1,14 @@
+.dashboard-container{
+    display: flex;
+    width: 100vw;
+}
+
+.welcome-info{
+    display: flex;
+    padding: 48px;
+}
+
+.line-chart{
+    display: flex;
+    padding: 48px;
+}
